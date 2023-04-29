@@ -1,0 +1,23 @@
+body{
+    background-image: url(bg.jpg);
+    /*background-repeat: no-repeat;
+    background-size: cover*/;
+    
+}
+
+.btn_play{
+    text-align: center;
+    padding-top: 100px;
+}
+
+.btn{
+    background-color: black;
+    border-color: black;
+    
+}
+
+.SWars{
+    text-align: center;
+    padding-top: 50px;
+}
+
